@@ -1,4 +1,4 @@
-package vjezbe_04.z06;
+package vjezbe_4.z06;
 
 public class Vehicle {
 

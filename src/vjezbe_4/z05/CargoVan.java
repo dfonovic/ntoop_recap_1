@@ -1,4 +1,4 @@
-package vjezbe_04.z05;
+package vjezbe_4.z05;
 
 public class CargoVan extends Van {
 

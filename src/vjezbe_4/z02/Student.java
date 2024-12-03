@@ -1,6 +1,6 @@
-package vjezbe_04.z02;
+package vjezbe_4.z02;
 
-import vjezbe_04.z01.Person;
+import vjezbe_4.z01.Person;
 
 public class Student extends Person {
 
@@ -35,7 +35,7 @@ public class Student extends Person {
 	}
 
 	@Override
-	public boolean equals(Object obj) { //paziti na generirani equals code, provjerava i sadržaj atributa nadklase!
+	public boolean equals(Object obj) { //paziti na generirani equals code, provjerava i sadrï¿½aj atributa nadklase!
 		if (this == obj)
 			return true;
 

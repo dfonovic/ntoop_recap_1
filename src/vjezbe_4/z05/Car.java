@@ -1,6 +1,6 @@
-package vjezbe_04.z05;
+package vjezbe_4.z05;
 
-import vjezbe_04.z04.Vehicle;
+import vjezbe_4.z04.Vehicle;
 
 public class Car extends Vehicle {
 

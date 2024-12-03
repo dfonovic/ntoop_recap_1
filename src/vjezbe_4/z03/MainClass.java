@@ -1,7 +1,8 @@
-package vjezbe_04.z03;
+package vjezbe_4.z03;
 
-import vjezbe_04.z01.Person;
-import vjezbe_04.z01.*;
+import vjezbe_4.z01.Person;
+import vjezbe_4.z02.*;
+
 
 
 public class MainClass {
